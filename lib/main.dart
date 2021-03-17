@@ -4,4 +4,3 @@ import 'screens/calculator.dart';
 void main() {
   runApp(Calculator());
 }
-/*teste de projeto
